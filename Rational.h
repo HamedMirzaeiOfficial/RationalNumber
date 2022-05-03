@@ -1,7 +1,7 @@
 /*******************************************************************
    Hamed Mirzaei
    telegram  ID --> @HamedMirzaei_Official
-   instagram ID --> HamedMirzaei2001Official
+   instagram ID --> HamedMirzaeiOfficial
    email --> HamedMirzaei2001Official@gmail.com
 ********************************************************************/
 
